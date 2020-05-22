@@ -1,3 +1,4 @@
+#!/bin/python3
 import tkinter, random, time
 
 riadky=10
